@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "0X2GDCAeT6vjvRFnWI5qCU",
+    "name" : "2023.04.M_DBMI",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
